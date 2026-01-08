@@ -8,7 +8,7 @@ Welcome to the personal portfolio of **Kamal**, a passionate and creative **Web 
 
 Check out my live portfolio website here:
 
-[**Kamal Portfolio - Live**](https://-portfolio-website.github.io)  
+[**Kamal Portfolio - Live**](https://kamaldixitt.github.io/Kamal-portfolio/)  
 
 ---
 
